@@ -177,6 +177,180 @@ Task-2-Customer-Churn-PowerBI/
 
 This Power BI project highlights how interactive dashboards can effectively analyze customer churn and support strategic business decisions. The insights derived can help organizations improve customer satisfaction and retention.
 
+
+
+📊 Marketing Funnel & Conversion Performance Analysis
+Data Science & Analytics – Task 3 (2026)
+
+By Future Interns
+
+🚀 Project Overview
+
+This project analyzes marketing funnel and lead conversion data to understand how users move from:
+
+Visitors → Leads → Engaged → Customers
+
+The objective is to identify:
+
+Where users drop off in the funnel
+
+Which marketing channels perform best
+
+What factors influence conversion
+
+How conversion rates can be improved
+
+This type of analysis is commonly used in startups, SaaS companies, digital marketing agencies, and growth teams to optimize revenue.
+
+📁 Dataset Used
+
+Bank Marketing Dataset
+
+Source: UCI Machine Learning Repository
+
+Records: ~45,000 customer interactions
+
+Target Variable: y (yes/no – subscription conversion)
+
+🛠 Tools & Technologies
+
+Power BI Desktop
+
+DAX (Data Analysis Expressions)
+
+Data Cleaning & Transformation
+
+Funnel & KPI Analysis
+
+📊 Dashboard Structure
+🔹 Page 1 – Marketing Funnel & Conversion Overview
+
+Visuals Included:
+
+Funnel Chart (Contacted → Engaged → Interested → Converted)
+
+KPI Cards:
+
+Total Contacts
+
+Total Conversions
+
+Conversion Rate %
+
+Drop-off Analysis
+
+Purpose:
+To identify major bottlenecks in the marketing funnel.
+
+🔹 Page 2 – Channel & Campaign Conversion Performance
+
+Visuals Included:
+
+Conversion Rate by Contact Method
+
+Campaign Performance Analysis
+
+Conversion by Month (Seasonality)
+
+Call Duration vs Conversion
+
+Housing & Loan Status vs Conversion
+
+KPI Cards (Avg Duration, Total Campaigns, etc.)
+
+Purpose:
+To identify high-performing marketing channels and campaigns.
+
+🔹 Page 3 – Customer Segmentation & Conversion Insights
+
+Visuals Included:
+
+Conversion by Age Group
+
+Conversion by Job
+
+Conversion by Marital Status
+
+Interactive Slicers (Month, Job, Contact)
+
+Purpose:
+To understand which customer segments convert better.
+
+📈 Key Metrics Calculated
+
+Total Contacts
+
+Total Conversions
+
+Conversion Rate %
+
+Engagement Rate
+
+Lead-to-Customer Conversion
+
+Drop-off Rate
+
+Average Call Duration
+
+🔍 Key Insights
+
+Significant drop-off observed between engagement and final conversion.
+
+Certain contact methods outperform others.
+
+Customers with previous successful outcomes show higher conversion probability.
+
+Longer call duration is strongly correlated with higher conversion rates.
+
+Age group 30–44 shows higher conversion performance.
+
+🎯 Business Recommendations
+
+Focus marketing budget on high-performing channels.
+
+Retarget customers with previous successful contact history.
+
+Improve early-stage engagement messaging.
+
+Optimize campaign frequency.
+
+Train sales team to improve call quality and duration.
+
+💼 Skills Demonstrated
+
+Funnel Analysis
+
+Conversion Optimization
+
+Marketing Analytics
+
+KPI Tracking
+
+Data Visualization
+
+Business Insight Generation
+
+DAX Calculations
+
+📌 Why This Project Matters
+
+This project demonstrates how data-driven decisions directly impact revenue growth.
+
+It reflects real-world analytics work used in:
+
+Growth Analytics
+
+Marketing Strategy
+
+Performance Marketing
+
+Business Intelligence
+
+👤 Author
+
+Chinmay Pal
+Aspiring Data Analyst | Marketing Analytics Enthusiast
+
 ---
 
 ## ✍️ Author
