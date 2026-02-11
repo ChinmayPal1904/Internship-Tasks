@@ -180,7 +180,7 @@ This Power BI project highlights how interactive dashboards can effectively anal
 
 
 
-# 📊 Marketing Funnel & Conversion Performance Analysis  
+# Task-3 📊 Marketing Funnel & Conversion Performance Analysis  
 ### Data Science & Analytics – Task 3 (2026)  
 **By Future Interns**
 
